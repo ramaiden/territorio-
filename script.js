@@ -49,7 +49,7 @@ fetch('Mapaterrtorios.kml')
     });
 
 // Load and process CSV data
-Papa.parse('archivo final - puntos_salida 2.csv', {
+Papa.parse('https://docs.google.com/spreadsheets/d/e/2PACX-1vQzsGUUp_L0sCTUtFUR6dlVe3t6R2LzlWlA8BegK9__LqLFR8_UkG2N0y-H68FeQycZ3ykWXpItPasA/pub?output=csv', {
     download: true,
     header: true,
     dynamicTyping: false, // Disable dynamic typing to handle parsing manually
