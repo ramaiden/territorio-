@@ -1,0 +1,582 @@
+ID,Nº,ENFOMASYON,ADRéS,latitud,longitud,Name
+1,1,,Alejandro Villalobos 218,-33.67683,-71.23654,1
+2,2,,Amancay 2653,-33.67258,-71.235247,1
+3,3,,Luis Olea 2583,-33.675091,-71.235997,1
+4,4,,Magno Espinoza 17,-33.675287,-71.23548,1
+5,5,,"Pje. Amancay 2653, Melipilla, Región Metropolitana, Chile",-33.672572,-71.235274,1
+6,1,,Lago Puyehue 287,-33.68259,-71.2266,10
+7,2,,Las Torres 610 - Block A34,-33.68679,-71.2246,10
+8,3,Entre Brasilia y pullehue al lado bazar,Merced,-33.68429,-71.2266,10
+9,4,Al lado de 1250A,Merced 1250,-33.68431,-71.22529,10
+10,5,Esq. Las Torres,"Zolla Rousseou Vargas casa al fondo, al lado derecho de la 1174.",-33.68548,-71.22383,10
+11,1,esquina Lago Villarrica,Arza 1677,-33.68174,-71.22729,11
+12,2,,Arza 1689,-33.6818,-71.2274,11
+13,3,Almacén azul,Esquina de lago Villarica con Arza,-33.68188,-71.22719,11
+14,4,,Lago Caburga 339,-33.683223,-71.229047,11
+15,5,Almacen Don Kesner,Lago Caburga 358,-33.683485,-71.229169,11
+16,6,,Lago Cólico 1776,-33.68359,-71.22892,11
+17,7,,Lago Llanquihue 315,-33.682914,-71.226979,11
+18,8,,"Lago Meullin 1651, 9580029 Melipilla, Región Metropolitana, Chile",-33.685288,-71.227273,11
+19,9,,Lago Rupanco 272,-33.682504,-71.22771,11
+20,10,,Lago Rupanco 489,-33.68508,-71.22785,11
+21,11,,Lago Todos Los Santos 1684,-33.68267,-71.22735,11
+22,12,,Lago verde 419,-33.6845,-71.2285,11
+23,13,,Lago verde 420,-33.68421,-71.22877,11
+24,14,,Lago Yulton 1709,-33.68489,-71.2285,11
+25,15,casa con cartel psje. lago yulto,Lago yulton con lago verde,-33.68489,-71.2286,11
+26,1,,Carlos Avilés 438 depto b-20,-33.68596,-71.22995,12
+27,2,,Esperanza lado derecho 1634,-33.68709,-71.22689,12
+28,3,,"Gabriela Mistral 1812, 9580297 Melipilla, Región Metropolitana, Chile",-33.685913,-71.229734,12
+29,4,,Gabriela Mistral 1820 depto b20,-33.68489,-71.2303,12
+30,5,,Gabriela Mistral block 1545 depto b30,-33.6866,-71.2276,12
+31,6,,Gabriela Mistral block 1689 depto a30,-33.68629,-71.22869,12
+32,7,,"Gabriela Mistral Block 1871, depto A-23",-33.6859,-71.2303,12
+33,8,Negocio por C.Avilés,Gabriela Mistral block 1891 depto. A10,-33.6859,-71.23065,12
+34,9,,Gabriela Mistral block 1891 depto. A13,-33.685995,-71.230431,12
+35,10,,Gabriela Mistral block 1891 depto. A31,-33.6859,-71.23049,12
+36,11,,Libertad 1625,-33.68619,-71.22779,12
+37,12,Al llegar a Carlos Avilés,Libertad 1875,-33.68431,-71.23018,12
+38,13,,Los Daneses 742,-33.68709,-71.2292,12
+39,14,,Violeta Parra 490,-33.68608,-71.22928,12
+40,1,,Altos cantillana block 818 depto 104,-33.6883,-71.23429,13
+41,2,,"Av. Circunvalación Block 906, Dpto 303",-33.687179,-71.232393,13
+42,3,,Block 801 depto 301 altos del cantillana,-33.68851,-71.23309,13
+43,4,,Block 805 depto 304,-33.68859,-71.23349,13
+44,5,,Block H 945 departamento 303,-33.68786,-71.23507,13
+45,6,,"Los Jazmines II Block 803, dato 303",-33.688675,-71.233196,13
+46,7,,"Los Jazmines II Block 803, dato 304 ",-33.688675,-71.233166,13
+47,8,,"Los Jazmines II Block 810, dato 304",-33.688573,-71.233815,13
+48,9,,"Los Jazmines II Block 811, dato 104",-33.688428,-71.233944,13
+49,10,,"Los Jazmines II Block 818, dato 303",-33.688189,-71.233858,13
+50,11,,Los Jazmines II Block 908 dpto 302,-33.688369,-71.232885,13
+51,12,,Loz Jazmines Block 813 dpto 101,-33.688557,-71.234104,13
+52,13,,Loz Jazmines Block 815 dpto 303,-33.6883046,-71.2343246,13
+53,1,,Block 806 dpto 303,-33.688202,-71.230964,14
+54,2,,Block 807 depto 301,-33.68809,-71.231,14
+55,3,,Block 810 depto 104,-33.687905,-71.231458,14
+56,4,,Block 812 depto 304,-33.6883,-71.2309,14
+57,5,,Block 824 depto 101 color v,-33.6883,-71.231,14
+58,6,,Block 828 depto 104,-33.68859,-71.2309,14
+59,7,,Block 828 depto 301,-33.68849,-71.231,14
+60,8,,Block 833 depto 103,-33.68849,-71.23159,14
+61,9,,Block 835 depto 101,-33.688697,-71.231518,14
+62,10,,Block 835 depto 103,-33.688715,-71.231539,14
+63,11,,Block 835 depto 303,-33.6887,-71.23149,14
+64,12,,Block 844 depto 302,-33.68849,-71.231,14
+65,13,,Block 854 depto 101,-33.6887,-71.2313,14
+66,14,,Block 904 depto 201,-33.688757,-71.23269,14
+67,15,,Block 904 depto 301,-33.68875,-71.23265,14
+68,16,,Block 904 depto 302,-33.68884,-71.23249,14
+69,17,,Block 906 depto 303,-33.68904,-71.23248,14
+70,18,,Block 922 depto 301,-33.68949,-71.23159,14
+71,1,,Block 829 depto 302,-33.689021,-71.229722,15
+72,2,,Block 829 depto 302,-33.688856,-71.229524,15
+73,3,,Block 830 depto 304,-33.68909,-71.22959,15
+74,4,,Block 846 depto 102,-33.6888,-71.2304,15
+75,5,,Block 861 depto 103,-33.68939,-71.230072,15
+76,6,,Block 867 depto 304,-33.6898,-71.2294,15
+77,7,,Block 873 depto 103,-33.689388,-71.230142,15
+78,8,,Block 874 dpto 301,-33.6893,-71.23069,15
+79,9,,Block 875 depto 101,-33.68945,-71.230082,15
+80,10,,Block 875 depto 103,-33.689602,-71.230206,15
+81,11,,Block 878 depto 102,-33.6894,-71.22869,15
+82,12,,Block 890 depto 301,-33.689987,-71.229107,15
+83,13,,Block 890 depto 302,-33.68999,-71.2291,15
+84,14,,Block 946 depto 102,-33.689861,-71.23029,15
+85,15,,Block 946 depto 304,-33.68989,-71.2303,15
+86,16,,Block 958 depto 304,-33.69039,-71.2295,15
+87,17,,Block 960 depto 102,-33.69049,-71.22959,15
+88,1,Casa color mostaza con portón negro,Arza (frente a la 240),-33.68289,-71.21019,16
+89,2,,Barros 25,-33.68071,-71.21228,16
+90,3,color rojo,Block 806 depto 303,-33.68809,-71.22,16
+91,4,Casa del fondo,Fuenzalida 230,-33.68349,-71.21089,16
+92,5,,Los Cardenales 710,-33.68809,-71.2244,16
+93,6,casa verde al lado del Santa Isabel,Manzo 529,-33.69134,-71.21497,16
+94,7,por puerta izquierda,Pardo (porton negro sin número),-33.68059,-71.2172,16
+95,8,,Pardo 774,-33.68905,-71.21823,16
+96,9,"porton negro, esquina San Miguel",Santa bárbara al lado derecho del 799,-33.68899,-71.2201,16
+97,10,Casi en la esquina de la carnicería,Ugalde 127,-33.68429,-71.2085,16
+98,11,,Ugalde 651,-33.6837,-71.21579,16
+99,12,Casa con palto grande,Ugalde frente 099,-33.6846,-71.2052,16
+100,1,,Correa 949,-33.6922,-71.2217,18
+101,2,,Los Carrera / Ojeda (al lado de la 851),-33.693659,-71.219393,18
+102,3,,Los carrera 810 (Al lado derecho),-33.69366,-71.21869,18
+103,4,,Pardo 1099,-33.693592,-71.218473,18
+104,5,Casa amarilla con puerta color café,Pardo 987,-33.692334,-71.218375,18
+105,6,"Puerta negra con reja, vive otra familia",Pardo 987b,-33.69245,-71.218342,18
+106,7,,Pardo 991,-33.692516,-71.218533,18
+107,8,,Pasaje uno 958,-33.69201,-71.22119,18
+108,9,Puerta color negra lado izquierdo,Silva Chavez 1298,-33.69565,-71.217428,18
+109,1,,Alfonso Suárez 1066,-33.694,-71.22309,19
+110,2,,Alfonso suarez 1297,-33.69591,-71.22141,19
+111,3,,Bernardo Ohggins 979,-33.69469,-71.22152,19
+112,4,,Casa 4-b toma del cementerio,-33.697569,-71.22715,19
+113,5,,Casa 6-b toma del cementerio,-33.697569,-71.227175,19
+114,6,,Casa 8-a toma del cementerio,-33.697932,-71.227632,19
+115,7,,Casa 8-b toma del cementerio,-33.697569,-71.227199,19
+116,8,,"Correa & O'Higgins, Melipilla, Región Metropolitana, Chile",-33.694606,-71.222003,19
+117,9,"Algunas casas después de ""la picá""",Correa porton de madera,-33.69419,-71.2218,19
+118,10,,Francisco Javier Reive 950,-33.6911,-71.22348,19
+119,11,,Juan Inostroza 1368,-33.69609,-71.22379,19
+120,12,,Manuel Rengifo1022,-33.69191,-71.22267,19
+121,13,,"San Pedro, Melipilla, Región Metropolitana, Chile",-33.692251,-71.22437,19
+122,14,Casa azul,Sangra 1335,-33.69559,-71.22429,19
+123,15,,Yungay 1454,-33.69549,-71.2248,19
+124,1,,Adolfo Larrain Valdivieso 49,-33.68289,-71.236,2
+125,2,,Avenida Tres Poniente 582,-33.6824,-71.23819,2
+126,3,,C. Bicentenario 2580,-33.67839,-71.23851,2
+127,4,Lado izquierdo de Almacén,C. Bicentenario 379,-33.67809,-71.23897,2
+128,5,Esquina con Bicentenario,Pje. 16 #2570,-33.67839,-71.2384,2
+129,6,,"Pje. 7, Melipilla, Región Metropolitana, Chile",-33.679601,-71.237741,2
+130,1,"casa amarilla, portón negro ",Ana Fuentes (frente a 1684),-33.69929,-71.2217,20
+131,2,,Ana fuentes 1703,-33.69948,-71.22197,20
+132,3,,Ana fuentes 1704,-33.69937,-71.22194,20
+133,4,casa tiene un mini galpón,Carampagne al lado almacen,-33.6985,-71.22319,20
+134,5,esquina casa color verde,Carampangue / San Carlos AA2400,-33.69856,-71.22356,20
+135,6,santa nora casa nilo,"Carampangue 1165, Melipilla",-33.69862,-71.22375,20
+136,7,,Las acacias / Caranpangue (casa rosada),-33.69829,-71.223,20
+137,8,dueña no quiere que visitemos,San Carlos 912,-33.69852,-71.22345,20
+138,9,poblacion teniente merino,"San Carlos 923, Melipilla",-33.6991,-71.2228,20
+139,10,,San Carlos 947,-33.698809,-71.223208,20
+140,11,,San Carlos al lado izquierdo de 966,-33.69889,-71.22312,20
+141,12,casa de dos pisos balcón madera,San carlos frente al 935,-33.69889,-71.2229,20
+142,13,,San Juan 946,-33.699012,-71.22356,20
+143,14,,San Juan 975,-33.699,-71.2236,20
+144,1,,Ana fuentes 17470,-33.70069,-71.223,21
+145,2,,caupolicán 1726,-33.69969,-71.223,21
+146,3,casa celeste hacia abajo del terreno,La cumbre s/n,-33.700743,-71.22295,21
+147,4,debe ser 31 o 32,santa Nora (frente a la iglesia),-33.7004,-71.22409,21
+148,5,,santa nora 15 (frente al 14),-33.7,-71.22509,21
+149,6,,Santa Nora 918,-33.70029,-71.2239,21
+150,7,,santa nora casa 30,-33.70019,-71.22419,21
+151,8,casa celese frente al 910,santa Teresa 1116,-33.7,-71.2237,21
+152,9,frente a casa roja,Sta Nora frente a 943,-33.7004,-71.22399,21
+153,1,casa amarilla al lado izquierdo de 1642,Ana fuentes 1644,-33.6979,-71.22059,22
+154,2,,Caupolican 1642 (frente a barbería),-33.69754,-71.220962,22
+155,3,portón negro,Caupolican 1671,-33.69859,-71.22178,22
+156,4,casa roja 2 pisos,Caupolican al lado izquierdo del 1645,-33.69766,-71.221,22
+157,5,casa roja con puerta negra,Caupolicán frente 1642,-33.6986,-71.22199,22
+158,6,,El esfuerzo 1339,-33.69749,-71.2216,22
+159,7,"casa que da a la calle, color blanca",Las brisas 1331,-33.6973,-71.22139,22
+160,8,,Patria vieja 908,-33.69829,-71.22209,22
+161,9,,Patria vieja 916,-33.69811,-71.22237,22
+162,10,casa verde,Patria vieja 920,-33.69809,-71.22241,22
+163,11,,Patria vieja 925,-33.69845,-71.22196,22
+164,12,"casa de cemento, portón negro",Patria Vieja al lado izquierdo del 914,-33.6982,-71.22219,22
+165,13,,Patria vieja casa esquina de cemento con canpangue,-33.69811,-71.22251,22
+166,1,,Benítez 967,-33.6963,-71.22049,23
+167,2,,El Cementerio 1290,-33.69648,-71.22075,23
+168,3,varias piezas,Fleck 850,-33.69689,-71.2192,23
+169,4,,Fleck 857,-33.696969,-71.219352,23
+170,5,varias piezas,Fleck 861,-33.6971,-71.21939,23
+171,6,portón al fondo,Fleck al lado 738,-33.69699,-71.21779,23
+172,7,,Manuel benitez 1089,-33.69638,-71.22078,23
+173,8,,Manuel Benítez 978,-33.6963,-71.2207,23
+174,9,portón de lata,Pardo / Fleck,-33.6968,-71.21859,23
+175,10,,Pardo 1341 (lado derecho),-33.69649,-71.2188,23
+176,11,,Pardo 1430,-33.697163,-71.21888,23
+177,12,,Pardo 1437,-33.6972,-71.2189,23
+178,13,varias puertas,Silva Chavez 1398,-33.6968,-71.21759,23
+179,1,rojo colonial con celeste,Casa lado norte,-33.698,-71.218,24
+180,2,,El Esfuerzo 1453,-33.6978,-71.21949,24
+181,3,,Pardo 1421,-33.6973,-71.21859,24
+182,4,,"Pardo 1426, Melipilla, Región Metropolitana, Chile",-33.697235,-71.219016,24
+183,5,,"Pardo 1426, Melipilla, Región Metropolitana, Chile",-33.697235,-71.219016,24
+184,6,,"Pardo 1437, Melipilla, Región Metropolitana, Chile",-33.697538,-71.21884,24
+185,7,,Pardo 1452,-33.69739,-71.21869,24
+186,8,,"Pardo 1480, Melipilla, Región Metropolitana, Chile",-33.697718,-71.219076,24
+187,9,,"Pardo 1480, Melipilla, Región Metropolitana, Chile",-33.697718,-71.219076,24
+188,10,Oreja negra varias piezas,Pardo 1504,-33.69839,-71.219,24
+189,11,,"Pardo 1552, Melipilla, Región Metropolitana, Chile",-33.698747,-71.21906,24
+190,12,,Pardo 1585,-33.69879,-71.2188,24
+191,13,,"Zúñiga & Silva Chávez, 9580647 Melipilla, Región Metropolitana, Chile",-33.698115,-71.217622,24
+192,14,referencia Silva Chavez,Zúñiga 708,-33.6982,-71.21769,24
+193,15,,"Zúñiga 708, 9580651 Melipilla, Región Metropolitana, Chile",-33.698306,-71.217895,24
+194,16,varias direcciones,Zuñiga 761,-33.6982,-71.2182,24
+195,17,antes del almacén,Zuñiga casa roja colonial,-33.698,-71.2181,24
+196,18,casa color cafe con color lúcuma,Zuñiga lado norte,-33.698,-71.2179,24
+197,19,,"Zúñiga, casa al lado izquierdo del 775",-33.6982,-71.2183,24
+198,1,,Daniel Duran 1544,-33.70019,-71.2171,25
+199,2,por manuel durán s/n casa amarilla,Daniel Durán/Roberto Sagredo esquina,-33.69969,-71.217,25
+200,3,huilco alto(número de caseta),Las Camelias 1075,-33.6999,-71.2209,25
+201,4,,Las Camelias 1113,-33.7001,-71.2208,25
+202,5,población francisco gonzalez,Manuel Agüero 1500,-33.69959,-71.21669,25
+203,6,tiene malla rachel casa en bajo,Pasaje Ilusion (frente a la 1122),-33.7001,-71.22049,25
+204,7,,Pasaje Ilusion 1052,-33.69957,-71.22056,25
+205,8,,Pasaje Ilusión 1062,-33.6994,-71.22047,25
+206,9,,Psj Santa María 925,-33.7,-71.221,25
+207,10,casa amarilla,Silva Chávez (frente al 1636),-33.69979,-71.21759,25
+208,11,,Silva Chávez 1636,-33.69975,-71.21787,25
+209,1,,Casa amarilla en Leonera Latorre,-33.70223,-71.22164,26
+210,2,,Chorrillos / Ana Fuentes pasaje belen,-33.70126,-71.22268,26
+211,3,,Colón 923,-33.70208,-71.22174,26
+212,4,,Guacolda 917,-33.70182,-71.22042,26
+213,5,,Guacolda 924,-33.70177,-71.22063,26
+214,6,,Leonora Latorre 1722,-33.70183,-71.22125,26
+215,7,,Manuel Rodríguez 939,-33.70138,-71.22052,26
+216,8,,Pasaje Principal 1567.,-33.70024,-71.22162,26
+217,1,,Al lado de Francisco Werchez 1645,-33.701182,-71.219958,27
+218,2,casi al final de la calle entrad de ladrillo,Copiapo,-33.70119,-71.2197,27
+219,3,casa de 2 pisos con pilar redondo de madera,Copiapo 1651,-33.701132,-71.219733,27
+220,4,,Copiapo 1729,-33.70169,-71.21961,27
+221,5,al final del pasaje casa amarilla segundo piso,Copiapo 1749,-33.7019,-71.21939,27
+222,6,,Copiapó 1754,-33.7019,-71.21939,27
+223,7,,Copiapó 1760,-33.701925,-71.219615,27
+224,8,,Daniel Duran 1620,-33.70109,-71.2174,27
+225,9,,Francisco Werchez 1645,-33.70109,-71.2199,27
+226,10,,Francisco Werchez 1651,-33.701327,-71.219986,27
+227,11,referencia tres esquinas,Manuel Rodríguez 745,-33.70156,-71.21872,27
+228,12,,Manuel Rodriguez 808,-33.70159,-71.21884,27
+229,13,,Manuel Rodriguez 841,-33.701518,-71.21952,27
+230,14,casa roja grande de la esquin,Manuel Rodríguez 844,-33.7014,-71.21939,27
+231,15,varias piezas,Manuel Rodríguez frente 735,-33.70159,-71.21849,27
+232,16,casa esquina en alto,Manuel Rodríguez/Miraflores,-33.70159,-71.2192,27
+233,17,,"Miraflores 1711, 9581558 Melipilla, Región Metropolitana, Chile",-33.70173,-71.21901,27
+234,18,,Miraflores 1733,-33.7018,-71.219,27
+235,19,,Placilla 1702,-33.70169,-71.21869,27
+236,20,,Principal / Silva Chávez,-33.701,-71.21779,27
+237,21,"frente a la calle andrés bello, puerta de lata",Silva Chávez 1630,-33.7013,-71.21769,27
+238,1,,"Calle eucapiltos (final calle, casa roja)",-33.7042,-71.22239,28
+239,2,"Huilco, por el portón para adentro",Las acacias 2050,-33.7028,-71.2181,28
+240,3,,Los cardenales (final calle casa azul),-33.705,-71.22209,28
+241,4,"Mata de níspero, casa madera celeste",Los cardenales 2109,-33.705,-71.22029,28
+242,5,"Antena entel, al final del pasaje",Los cardenales 2154,-33.7048,-71.22239,28
+243,6,,Los cardenales s/n (casa verde pistacho),-33.705,-71.22139,28
+244,7,"Casa amarilla, ex almacén",Los olmos (frente 2090a),-33.7043,-71.2201,28
+245,8,Casa azul y casa amarilla,Los olmos 2079,-33.70449,-71.2199,28
+246,9,Casa roja con parron,Los olmos 2082,-33.7046,-71.22,28
+247,10,Casa gris muy pequeña,Pasaje 7 los (casa gris),-33.7052,-71.2225,28
+248,11,primera casa mano derecha,Pasaje del negocio el sol (casa roja),-33.7062,-71.2199,28
+249,1,,Las Dalias frente al 2068 (porton de lata),-33.704221,-71.218153,29
+250,2,,Los ciruelos,-33.7059,-71.21785,29
+251,3,,Pasaje Tres (Casa bajando camino tierra),-33.70489,-71.2169,29
+252,4,,Psje Dos 2032 vista hermosa.,-33.7033,-71.21691,29
+253,5,,Vista hermosa 2031,-33.70527,-71.21743,29
+254,6,,Vista hermosa 2032,-33.7027,-71.21779,29
+255,7,,"Vista Hermosa 2056, 9580162 Melipilla, Región Metropolitana, Chile",-33.703272,-71.217922,29
+256,8,,Vista hermosa 2058,-33.7034,-71.2179,29
+257,9,,Vista hermosa 2090,-33.7048,-71.21769,29
+258,10,Tres piezas color verde,Vista hermosa 2118 A,-33.70566,-71.21873,29
+259,11,,"Vista Hermosa 2175, Melipilla, Región Metropolitana, Chile",-33.706076,-71.219125,29
+260,1,,José a. Pacheco Esq. Merced,-33.67879,-71.2348,3
+261,2,,José Pacheco 143,-33.67803,-71.23439,3
+262,3,,José Pacheco 201,-33.67824,-71.23467,3
+263,4,,Jose Perotti 114,-33.67739,-71.23449,3
+264,5,,Jose Perotti 74,-33.6771,-71.2342,3
+265,6,,"Pje. José Arturo Pacheco 18, 9582068 Melipilla, Región Metropolitana, Chile",-33.676562,-71.233469,3
+266,7,,"Pje. Juan Francisco González 144, 9582076 Melipilla, Región Metropolitana, Chile",-33.677913,-71.233975,3
+267,8,,Psj. Juan Fco. González 132,-33.678005,-71.233921,3
+268,9,,Psj. Juan Fco. González 138,-33.678411,-71.234195,3
+269,10,,Psj. Juan Fco. González 144,-33.678487,-71.23424,3
+270,11,,"Psj. Juan Fco. González, Melipilla, Región Metropolitana, Chile",-33.678371,-71.234179,3
+271,12,,"Psj. Juan Fco. González, Melipilla, Región Metropolitana, Chile",-33.679058,-71.234619,3
+272,13,,"Psj. Juan Fco. González, Melipilla, Región Metropolitana, Chile",-33.679058,-71.234619,3
+273,14,,"Psj. Pintor José Perotti 102, 9582072 Melipilla, Región Metropolitana, Chile",-33.677369,-71.234404,3
+274,15,,"Psj. Pintor José Perotti 102, 9582072 Melipilla, Región Metropolitana, Chile",-33.677369,-71.234404,3
+275,16,,"Psj. Pintor José Perotti 102, 9582072 Melipilla, Región Metropolitana, Chile",-33.677369,-71.234404,3
+276,1,Casa amarilla,Camino viejo 1236,-33.70629,-71.21649,30
+277,2,,"Capellán Abarzúa, Melipilla, Región Metropolitana, Chile",-33.702048,-71.216709,30
+278,3,Al lado izquierdo de ex casa sabine,Capellán asartur,-33.70169,-71.2171,30
+279,4,Portón lata calipso,Capellán asartur frente al 630,-33.7019,-71.2171,30
+280,5,"Casa en alto, entre venta agua y 1366",Huilco bajo (al lado de 1366),-33.709,-71.2172,30
+281,6,,"Huilco Bajo 1216, 9581394 Melipilla, Región Metropolitana, Chile",-33.706352,-71.216647,30
+282,7,Gran portón lata. poste 012,"Huilco Bajo 1502, camino viejo",-33.7093,-71.217,30
+283,8,Casa azul (turquesa),Huilco bajo lado izquierdo 1178 casa roja,-33.70489,-71.21639,30
+284,9,,Huilco Bajo. Al lado del 1502. Camino viejo.,-33.7079,-71.2163,30
+285,10,Al lado de la cancha y el parque,"Pedro guzmán, al lado el edificio de la iglesia",-33.70052,-71.21694,30
+286,1,casa de madera al lado de 2 pisos,Carmen Quintero 277,-33.6754,-71.208,31
+287,2,reja madera alta,Ignacio Carrera Pinto / Juan bolivar,-33.67649,-71.20639,31
+288,3,,José Argomedo 467,-33.6768,-71.2052,31
+289,4,,Juan Bautista campos (casa esquina),-33.67649,-71.2079,31
+290,5,,Juan Bautista Pastene 209,-33.6766,-71.21289,31
+291,6,casa color rojo,Juan bolivar 212,-33.67649,-71.2068,31
+292,7,casa calipso y roja,"Las Ostolazas, final calle (frente a 363)",-33.6733,-71.20829,31
+293,8,lado izquierdo del negocio,Patricio Larraín 186,-33.6749,-71.21379,31
+294,9,reja de madera fretne a casa blanca 2 pisos,Pedro Mendez 142 (aa 1520),-33.6759,-71.207,31
+295,10,casa amarilla,Pedro Méndez 251,-33.67599,-71.2068,31
+296,11,puerta que esta por el patio,Ricardo Sta. Cruz frente 441,-33.6754,-71.21389,31
+297,1,,Arturo Perez 191 población Demetrio Bravo,-33.67839,-71.2079,32
+298,2,,Arturo Pérez 277,-33.67839,-71.2086,32
+299,3,casa de reja enredadera verde,Gabriel Silva 138,-33.6771,-71.2069,32
+300,4,,Gabriel Silva 160.,-33.67699,-71.2077,32
+301,5,,Gabriel Silva 180,-33.67701,-71.20778,32
+302,6,al lado de negocio,Gabriel Silva 263,-33.67699,-71.20832,32
+303,7,frente a julio montt,"Gabriel Silva s/n, reja celeste",-33.677019,-71.2086,32
+304,8,,Ignacio Carrera Pinto 189,-33.67728,-71.206485,32
+305,9,,Ignacio carrera Pinto esquina Manuel Silva,-33.67739,-71.20659,32
+306,10,,Ignición Carrera Pinto / Av Padre Demetrio. Casa de madera,-33.679363,-71.20671,32
+307,11,"pieza, casa galpón",Juan Bautista Campos / Luis Cruz Martinez,-33.67793,-71.20788,32
+308,12,casa orientne con reja negra,Juan Bautista Campos s/n (Entre M. Silva y G. Silva),-33.677316,-71.207897,32
+309,13,esq al llegar a julio montt. Frente a iglesia,Luis Cruz Martínez 109,-33.677722,-71.209175,32
+310,14,,Luis Cruz Martínez 170,-33.67779,-71.20749,32
+311,15,casa tiene 2 números,Manuel Silva 121-190,-33.67739,-71.2077,32
+312,16,,Manuel Silva 255,-33.67739,-71.2085,32
+313,17,casa 2 pisos frente a 261,Manuel Silva 270,-33.67729,-71.2089,32
+314,18,,Manuel Silva 290.,-33.67734,-71.20905,32
+315,19,casa esquina 2 pisos,Manuel silva con julio montt,-33.67722,-71.20918,32
+316,20,dpto doble piso,Manuel Silva frente a 216,-33.67739,-71.20829,32
+317,1,al lado derecho de la 697,Arturo Perez (casa esquina),-33.678646,-71.205142,33
+318,2,,Arturo Pérez 0240,-33.67869,-71.20369,33
+319,3,,Arturo Pérez 051,-33.6785,-71.20469,33
+320,4,,Arturo Perez 697,-33.678685,-71.204862,33
+321,5,,Clodomiro Rosas 570,-33.67819,-71.205,33
+322,6,entre José Arias y Florencio Astudillo,Clodomiro rosas frente a 569,-33.67789,-71.2049,33
+323,7,con calle Ernesto González,Emilio Correa 0150,-33.67839,-71.20369,33
+324,8,,Ernesto gonzales (casa rosada) al lado 01,-33.67819,-71.2041,33
+325,9,,Florencio Astudillo 0210,-33.67813,-71.20394,33
+326,10,,Francisco Contreras 534,-33.6781,-71.206,33
+327,11,casa amarilla con piezas azules,Francisco Contreras 536,-33.6775,-71.2061,33
+328,12,,Francisco Contreras 560,-33.6781,-71.2061,33
+329,13,segunda casa después del negocio,José Arias 161,-33.67789,-71.20369,33
+330,14,esquina con Francisco Contreras,Jose Arias 511 (casa esquina),-33.677486,-71.205964,33
+331,1,,Claudio Matte Block 187 depto 203,-33.679,-71.20169,34
+332,2,,Claudio Matte Block 187 depto 304,-33.679,-71.20159,34
+333,3,,Claudio Matte Block 380 depto 302,-33.67914,-71.20157,34
+334,4,,Claudio Matte Block 462 dpto #207,-33.678655,-71.201632,34
+335,5,frente al poste 3,Empresario Ariztía / Educadora Maranbio,-33.67865,-71.20088,34
+336,6,,Empresario Ariztía block 589 depto 307,-33.67839,-71.201,34
+337,7,,Empresario Manuel Ariztia block 589 depto 105,-33.67839,-71.202,34
+338,8,,Hermanas Marambio Block 185 depto 104,-33.67892,-71.20045,34
+339,9,,hermanas Marambio Block 185 depto 203,-33.67879,-71.20059,34
+340,10,,Hermanas Marambio block 185 depto 306,-33.67879,-71.2005,34
+341,11,por calle matte,Hermanas Marambio Block 185 depto esquina superior,-33.67886,-71.20052,34
+342,12,casa verde,J M González 0558,-33.67839,-71.20089,34
+343,13,,Jose Manuel Gonzalez block 428 depto 102,-33.6786,-71.202,34
+344,14,,José Manuel González Block 428 depto 201,-33.6786,-71.20189,34
+345,15,,José Manuel González Block 428 depto 204,-33.6786,-71.20189,34
+346,16,,José Manuel Gonzalez block 428 depto 301,-33.6786,-71.20189,34
+347,17,,José Manuel Gonzalez Block 428 depto 306,-33.67879,-71.202,34
+348,18,,Padre Demetrio Block 383 depto 102,-33.6791,-71.20259,34
+349,19,,Padre Demetrio Block 383 depto 206,-33.679,-71.20249,34
+350,20,,Padre Demetrio Block 383 depto 306,-33.679,-71.20269,34
+351,21,,Padre DemterioBlock 383 depto 308,-33.6791,-71.20259,34
+352,1,,Empresario Ariztía block 609 depto 101,-33.67829,-71.1994,35
+353,2,,Empresario Ariztía block 609 depto 102,-33.67839,-71.1993,35
+354,3,,Empresario Ariztía block 609 depto 103,-33.67829,-71.1994,35
+355,4,,Empresario Ariztía block 609 depto 203,-33.67839,-71.1993,35
+356,5,,Empresario Ariztía block 609 depto 304,-33.67839,-71.1993,35
+357,6,,Empresario Ariztía block 609 depto 307,-33.67829,-71.1993,35
+358,7,,Empresario Ariztía Block 639 blanco 639 depto 107,-33.67829,-71.19889,35
+359,8,,Empresario Ariztía block 639 depto 308,-33.67829,-71.19899,35
+360,9,,Empresario Manuel Ariztía Block 609 depto 208,-33.67839,-71.1994,35
+361,10,,Gabriel Garcia block 586 depto 106,-33.6781,-71.19969,35
+362,11,,Gabriel Garcia block 586 depto 202,-33.6781,-71.1996,35
+363,12,,Gabriel Garcia block 600 depto 306,-33.6781,-71.19899,35
+364,13,,Gabriel Garcia block 638 depto 104,-33.678,-71.1986,35
+365,1,,Empresario Ariztía block 0637 depto 204,-33.678728,-71.20006,36
+366,2,,Empresario Ariztía block 0637 depto 205,-33.678728,-71.200065,36
+367,3,,Empresario Ariztía block 0637 depto 206,-33.678728,-71.20007,36
+368,4,,Empresario Ariztía Block 589 depto 103,-33.67839,-71.2001,36
+369,5,,Empresario Ariztía block 589 depto 202,-33.6785,-71.2001,36
+370,6,,Empresario Ariztía Block 589 depto 206,-33.67839,-71.19999,36
+371,7,,Empresario Ariztía block 589 depto 302,-33.6785,-71.2001,36
+372,8,,Empresario Ariztía block 589 depto 304,-33.6785,-71.19999,36
+373,9,,Empresario Ariztía Block 595 departamento 302,-33.67837,-71.1995,36
+374,10,,Empresario Ariztía Block 595 departamento 306,-33.67837,-71.1997,36
+375,11,,Empresario Ariztía Block 595 depto 204,-33.67839,-71.19969,36
+376,12,,Empresario Ariztía block 595 depto 207,-33.67829,-71.19969,36
+377,13,,Empresario Ariztía Block 595 depto 301,-33.67839,-71.1997,36
+378,14,,Empresario Ariztía block 605 depto 103,-33.678728,-71.20005,36
+379,15,Ampliación de madera en el primer piso,Empresario Ariztía Block 663 dpto 101,-33.6785,-71.199,36
+380,16,,Empresario Ariztia Block 671 depto 104,-33.6786,-71.1987,36
+381,17,,"Empresario Ariztia Block 671 depto 205, padre hurt",-33.67867,-71.19877,36
+382,18,,Empresario Ariztia Block 671 depto 305,-33.6786,-71.19879,36
+383,19,,Empresario Ariztía block 699 depto 307,-33.6785,-71.1984,36
+384,20,,Empresario Manuel Ariztía block 589 depto 101,-33.6785,-71.19999,36
+385,21,,Empresario Manuel Ariztia block 589 depto 207,-33.6785,-71.2001,36
+386,22,,Empresario Manuel Ariztía block 595 depto 201,-33.67829,-71.1996,36
+387,23,,Hnas. Marambio Block 188 depto 305,-33.67879,-71.2001,36
+388,24,,Hnas. Marambio block 188 depto 306,-33.67879,-71.2001,36
+389,1,,Av San Pedro 45,-33.89723,-71.45409,37
+390,2,,casas que no se ven,-33.88299,-71.47239,37
+391,3,media agua,cerca vulcanizado,-33.9028,-71.469,37
+392,4,pedir permiso antes de entrar,detrás ferretería primera casa,-33.8967,-71.4542,37
+393,5,,dos casas media agua,-33.8828,-71.4718,37
+394,6,,frente a agrosuper,-33.9,-71.40599,37
+395,7,cactus viejo frente,la polvadera casa roja 681,-33.88989,-71.4698,37
+396,8,(es una pica' de camioneros),Pieza en restorant churrascamion,-33.88787,-71.46714,37
+397,9,casa de maderas,plantación frutillas,-33.90179,-71.4679,37
+398,10,,pob 1,-33.89849,-71.4692,37
+399,11,,pob 2,-33.8981,-71.4709,37
+400,12,,pob 3,-33.89849,-71.4698,37
+401,13,,pob 4,-33.8986,-71.4698,37
+402,14,,pob 5,-33.8987,-71.4698,37
+403,15,,pob 6,-33.8982,-71.4699,37
+404,16,"local puerta blanca, pilares",san pedro(al lado de local),-33.89739,-71.45349,37
+405,1,1era casa (a mano derecha) después del portón negro,Calle Mercedes (fondo a la izquierda),-33.92011,-71.50798,38
+406,2,,callejón,-33.9154,-71.5024,38
+407,3,,callejon del colegio aldunate al fondo,-33.9677,-71.4989,38
+408,4,,camino a la mina,-33.91339,-71.47499,38
+409,5,casa adobe al lado del galpon,carretera sn,-33.9163,-71.45449,38
+410,6,casa de don tito santibáñez,casa adobe antigua,-33.9179,-71.5044,38
+411,7,,Casa amarilla de madera,-33.92152,-71.50843,38
+412,8,,Casa verde con amarillo,-33.91879,-71.5085,38
+413,9,,frente a calle del salon,-33.92419,-71.4634,38
+414,10,casa roja,Frente al salon,-33.91849,-71.4869,38
+415,11,por la carretera,lado restaurante tia lore,-33.91749,-71.4588,38
+416,12,frente a iglesia evangelica,llamkay 1,-33.9104,-71.43849,38
+417,13,,llamkay 2,-33.91019,-71.4384,38
+418,14,,llamkay 3,-33.9103,-71.43859,38
+419,15,"bandera mapuche, despues negocio oropel",media agua ampliación,-33.9239,-71.521,38
+420,16,,pob el prado,-33.9217,-71.50849,38
+421,17,casa esquina,población nuevo amanecer,-33.9133,-71.44129,38
+422,18,"villa nvo amanecer, el yali (frente a cancha)",San Pedro 1212,-33.91338,-71.44292,38
+423,19,"villa nvo amanecer, al lado de la 1257",San Pedro 1255,-33.91371,-71.44154,38
+424,20,"villa nvo amanecer, antena directv",San Pedro 1257,-33.9137,-71.44163,38
+425,21,casa de madera al final del callejon,San Pedro 1281,-33.91421,-71.43865,38
+426,22,frente a los juegos,yali 583,-33.91479,-71.44,38
+427,1,,"Arturo Prat 269, tiene varios locales rojos ",-33.6519,-71.14939,39
+428,2,"frente a parcela 8, esquina",Chiñigue las rosas,-33.66529,-71.10469,39
+429,3,"2 pisos, 1ra parcela mano izquierda",Chiñigue por las rosas,-33.66859,-71.1054,39
+430,4,casa azul,General baquedano casa 240,-33.64789,-71.14929,39
+431,5,,Irarrazabal casa blanca con ventanas azul,-33.64867,-71.15198,39
+432,6,,Rafael Morandé lado derecho 384.,-33.65089,-71.14829,39
+433,7,,"Roberto Bravo 454, Pomaire, Melipilla, Región Metropolitana, Chile",-33.649023,-71.149595,39
+434,8,,Roberto Bravo 580,-33.64688,-71.14939,39
+435,9,,Roberto bravo al lado izquierdo del local 46,-33.6505,-71.14971,39
+436,10,"casa roja, primera casa después peladero",San Antonio,-33.6491,-71.151,39
+437,11,casa roja,San Antonio 205,-33.65302,-71.15142,39
+438,1,,Adolfo Larrain Valdivieso 364,-33.680987,-71.234834,4
+439,2,,"Alejandro González Vial 2279, 9581906 Melipilla, Región Metropolitana, Chile",-33.68008,-71.233928,4
+440,3,,"Alfredo Marín Diabuno 2270, 9581911 Melipilla, Región Metropolitana, Chile",-33.68077,-71.23416,4
+441,4,,Alfredo Marin Diabuno 2271,-33.680946,-71.234252,4
+442,5,,"Armando Cortez 321, 9581735 Melipilla, Región Metropolitana, Chile",-33.68074115,-71.23251136,4
+443,6,,"Av. Circunvalación 2110, altos de cantillana",-33.68579,-71.23429,4
+444,7,,Casa Esquina Luis Hevia / Lorgio Dañoabeitia,-33.68161,-71.23364,4
+445,8,,Juan de Dios Diaz 2215,-33.6804,-71.23442,4
+446,9,Frente al 2255,Juan de Dios Diaz 2263,-33.68059,-71.2342,4
+447,10,,Lastenia Álvarez 2258,-33.68008,-71.23363,4
+448,11,,Luis Hevia 2215,-33.68167,-71.23368,4
+449,12,,Merced 2123,-33.680575,-71.232426,4
+450,13,,Merced 2227,-33.68019,-71.2331,4
+451,14,,"Raul Silva Henriquez, Melipilla, Región Metropolitana, Chile",-33.681648,-71.230466,4
+452,15,,"Raul Silva Henriquez, Melipilla, Región Metropolitana, Chile",-33.681648,-71.230466,4
+453,16,,Valentín silva 301,-33.6809,-71.2319,4
+454,1,,Adentro de la parcela,-33.74739,-71.3299,40
+455,2,justo en la curva,Almacen valle de vida,-33.7633,-71.29579,40
+456,3,,Atrás de la cancha,-33.7701,-71.2696,40
+457,4,segunda casa mano derecha,Camino codihua 13,-33.7705,-71.26319,40
+458,5,primera casa madera izquierda,Camino Codihua 13 (poste 020),-33.77059,-71.26349,40
+459,6,,Casa 271,-33.75709,-71.3252,40
+460,7,,Casa 401,-33.75646,-71.32534,40
+461,8,,Casa 404,-33.75623,-71.32541,40
+462,9,eucalipto,Codigua cerca comisaría,-33.7512,-71.32589,40
+463,10,primer porton,En el poste 125,-33.7573,-71.3224,40
+464,11,al lado del colibrí,En Ruta,-33.7713,-71.24649,40
+465,12,,Frente a carnicería,-33.7661,-71.27729,40
+466,13,,Rukaraku,-33.76639,-71.28859,40
+467,14,,San Manuel 399,-33.7569,-71.32499,40
+468,15,casa verde,San Rafael,-33.756,-71.2991,40
+469,16,en el poste 002,Segunda casa a mano derecha,-33.7573,-71.32099,40
+470,1,,A un costado de taller.,-33.7444,-71.2309,41
+471,2,casa alero subir mano derecha,Al fondo callejón mano derecha,-33.74639,-71.23329,41
+472,3,,Al lado letrero fin concesión variante melipilla,-33.7192,-71.21169,41
+473,4,,Cabaña 2,-33.7452,-71.23149,41
+474,5,,Casa 2,-33.74729,-71.23229,41
+475,6,,Casa 44,-33.719237,-71.212988,41
+476,7,,Casa 45,-33.719291,-71.213268,41
+477,8,,Casa 47,-33.719307,-71.213166,41
+478,9,,Casa 53,-33.719093,-71.21296,41
+479,10,,Casa amarilla 1,-33.7472,-71.23229,41
+480,11,,Casa roja (la primera),-33.716717,-71.211193,41
+481,12,,Casa verde esquina toma,-33.7164,-71.21095,41
+482,13,segunda,Casa verde oliva,-33.71673,-71.21131,41
+483,14,,Club de tenis Melipilla,-33.71939,-71.2088,41
+484,15,después posta,Pabellón calle tierra izquierda,-33.74789,-71.19519,41
+485,1,,Caletera autopista del sol,-33.65969,-71.2506,42
+486,2,"final pasaje, frente a gran casa",Camino montaña adentro,-33.6575,-71.33339,42
+487,3,antes de llegar a puente,Frente a parcela 22,-33.6633,-71.33049,42
+488,4,,"G-78 51650, Melipilla",-33.66461,-71.32788,42
+489,5,poblacion sta rosa,Pasaje jade 60,-33.65639,-71.2804,42
+490,6,,Santa rosa 142,-33.66379,-71.2758,42
+491,7,porton madera,Santa rosa poste 004,-33.6631,-71.27529,42
+492,1,casa rosada de madera,Angol/paradero 4 casa 137,-33.571263,-71.206558,43
+493,2,,"Anselmo Alarcon 509, primera casa",-33.570154,-71.205658,43
+494,3,,Anselmo Alarcon 785,-33.570811,-71.201641,43
+495,4,al medio del terreno,"Calle Sin Nombre, casa de madera ",-33.566857,-71.216453,43
+496,5,casa amarilla,El Litre 206,-33.568971,-71.219695,43
+497,6,,Entre botilleria y marisquería,-33.570501,-71.20405,43
+498,7,casa grande 2 pisos,Las Culebras Verdes 1501A,-33.567293,-71.211283,43
+499,8,hay varias piezas adentro,Las Culebras Verdes 174,-33.568066,-71.21375,43
+500,9,atrás de botilleria el choly,Los Maquis 135,-33.569489,-71.21358,43
+501,10,atrás de almacen,Los Maquis esquina Los Espinos,-33.569063,-71.217466,43
+502,11,"Casa de al fondo, entrar por reja lateral.","Los Peumos S/N, sitio 9",-33.569893,-71.215508,43
+503,12,viven haitianos en las 2 casas del terreno,Los Robles 7266,-33.568205,-71.217929,43
+504,13,,Pasaje el peumo 219,-33.568683,-71.220489,43
+505,14,casa roja,Pasaje entre panadería bollenar y bencinera,-33.570847,-71.205818,43
+506,15,,Tricahue 1431,-33.567171,-71.22143,43
+507,1,Casa blanca,Av Mallarauco 324,-33.579911,-71.032249,44
+508,2,Casa verde,Av Mallarauco 334,-33.579938,-71.033439,44
+509,3,Entrar por el lado,Casa atrás del negocio,-33.578475,-71.015447,44
+510,4,Varias piezas en esta dirección,Esperanza 99,-33.582937,-71.021132,44
+511,5,,Juan Mussri (frente al 10),-33.582896,-71.022252,44
+512,6,Casa azul,Juan Mussri 89,-33.582538,-71.021158,44
+513,7,Casa roja,Las Golondrinas 97,-33.583128,-71.021124,44
+514,8,Casa esquina de madera,Santa Victoria de Mallarauco 570,-33.585533,-71.052822,44
+515,1,"Color roja, viven varios haitianos. ","El Boldo, Casa esquina S/N. ",-33.456992,-71.09694,45
+516,2,,"El Boldo, Casa esquina S/N. Color roja.",-33.457001,-71.097015,45
+517,3,última casa a mano izquierda.,El Quillay S/N.,-33.454507,-71.096775,45
+518,4,,El Quillay S/N. última casa a mano izquierda.,-33.45452,-71.096818,45
+519,5,Casa con malla color azul en el exterior.,"El Quisco, casa de dos pisos. ",-33.458692,-71.09665,45
+520,6,,"El Quisco, casa de dos pisos. Casa con malla color azul",-33.458705,-71.096648,45
+521,7,"Casa esquina, viven haitianos.",Los Espinos / El Quisco.,-33.457918,-71.096933,45
+522,8,,Los Espinos / El Quisco. Casa esquina.,-33.457919,-71.096914,45
+523,9,Casa verde a mano derecha.,Pje. El Acacio S/N.,-33.455193,-71.097469,45
+524,10,,Pje. El Acacio S/N. Casa verde a mano derecha.,-33.45521,-71.097477,45
+525,1,Gran Ampliación,Bruno Romanini 2094,-33.67789,-71.2313,5
+526,2,,Hilda Reyes Catalán 2107,-33.67829,-71.23249,5
+527,3,,Hilda Reyes Catalán 2110,-33.6781,-71.23269,5
+528,4,Población Obispo Lizama,Hilda Reyes Catalán 2111,-33.67819,-71.23269,5
+529,5,No tiene número visible,Hilda Reyes Catalán 2113,-33.67813,-71.23291,5
+530,6,,Hilda Reyes Catalán 2118,-33.67794,-71.23299,5
+531,7,Casa Roja,Ramón Núñez 16,-33.67739,-71.23249,5
+532,8,,Rolando Nuñez Jorquera 44,-33.67713,-71.23282,5
+533,9,,Victor Marín 18,-33.6777,-71.2321,5
+534,1,,Juan Pablo II 2070,-33.6799,-71.23139,6
+535,2,Lado de 120 pieza calipso,Juan Pablo XXIII,-33.67979,-71.2313,6
+536,3,,Papa Juan XXIII 118,-33.67974,-71.23118,6
+537,4,Casa Esq. 2 pisos,Papa Juan XXIII frente a la 107,-33.67929,-71.2311,6
+538,5,,Papa Leon XIII 2076,-33.67948,-71.23142,6
+539,6,Pob. Lizama,Papa Leon Xlll 2085,-33.6796,-71.23159,6
+540,7,,"Pasaje Papa - Pío X 131, 9581699 Melipilla, Región Metropolitana, Chile",-33.68007,-71.232018,6
+541,8,,Raúl Silva Henríquez 2107,-33.6789,-71.233,6
+542,9,,San Pedro 140,-33.68009,-71.23179,6
+543,10,,"San Pedro 2069, 9581697 Melipilla, Región Metropolitana, Chile",-33.680177,-71.231505,6
+544,11,,"San Pedro 2071, 9581697 Melipilla, Región Metropolitana, Chile",-33.680167,-71.231562,6
+545,12,J.Pablo II,San Pedro 2075,-33.68009,-71.23159,6
+546,13,,San Pedro 2075,-33.679955,-71.231583,6
+547,14,,"Sor Teresa de Calcuta 2097, 9581714 Melipilla, Región Metropolitana, Chile",-33.679297,-71.232754,6
+548,15,,"Sor Teresa de Calcuta 2099, 9581714 Melipilla, Región Metropolitana, Chile",-33.679189,-71.233058,6
+549,1,,Emilio Sánchez Sandoval 102,-33.679,-71.23,7
+550,2,Lado derecho,Emilio Sánchez Sandoval 122,-33.6799,-71.2309,7
+551,3,,Emilio Sanchez Sandoval 81,-33.679432,-71.230596,7
+552,4,,Emilio Sanchez Sandoval 81,-33.67943,-71.23059,7
+553,5,Una calle al norte de Juan Obrero,Luciano Sanchez 1839,-33.68023,-71.22933,7
+554,6,,Mario Chuescas Tasara 1832,-33.679,-71.22899,7
+555,7,,Monseñor Luis Borremans  115,-33.68009,-71.2295,7
+556,8,Pob. Benjamin Ulloa,Monseñor Luis Borremans 147,-33.6805,-71.22969,7
+557,9,,Psj. Juan Hernández M. 1832,-33.67929,-71.22899,7
+558,1,Portón negro,Carlos Aviles - Frente al 148,-33.68068,-71.229,8
+559,2,,Las Araucarias 1734 (Elodie),-33.680649,-71.227929,8
+560,3,,Las Camelias 105,-33.6808,-71.22692,8
+561,4,,Las Camelias 197,-33.681532,-71.226996,8
+562,5,,Las Magnolias 154,-33.681348,-71.227409,8
+563,6,,Las Magnolias 69,-33.68013,-71.22735,8
+564,7,,"Las Magnolias 69, 9580244 Melipilla, Región Metropolitana, Chile",-33.680211,-71.227271,8
+565,8,Al lado de negocio,Las Magnolias 74,-33.6804,-71.2273,8
+566,9,,Las Magnolias 84,-33.6805,-71.2274,8
+567,10,,"Los Canelos 1721, 9580248 Melipilla, Región Metropolitana, Chile",-33.679337,-71.227806,8
+568,11,,Los Copihues 177,-33.68139,-71.22779,8
+569,12,,Los Copihues 178,-33.6813,-71.22789,8
+570,13,,Los Sauces 1709,-33.680366,-71.227625,8
+571,14,,Los Sauces 1758,-33.6803,-71.2281,8
+572,1,,El Belloto 1242,-33.6805,-71.22519,9
+573,2,,El Belloto 1309,-33.68055,-71.22551,9
+574,3,Esquina Las Araucarias,Hanga Roa 100,-33.68099,-71.2254,9
+575,4,Villa 14 de diciembre,La Patagua,-33.68009,-71.2244,9
+576,5,,Las Araucarias 1137,-33.68108,-71.22341,9
+577,6,Con El Mañio,Las Araucarias 1140,-33.68099,-71.22339,9
+578,7,,"Las Araucarias 1247, 9581131 Melipilla, Región Metropolitana, Chile",-33.681084,-71.225029,9
+579,8,,Las Araucarias 1254,-33.6809,-71.22509,9
+580,9,Llegando a Las Torres,Las Araucarias 1259,-33.68099,-71.22509,9
+581,10,Pob. El Canelo,Pasaje El Laurel 46,-33.6804,-71.2237,9
