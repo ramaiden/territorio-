@@ -1,4 +1,3 @@
-
 // Initialize the map
 const map = L.map('map').setView([-33.68, -71.22], 13);
 
@@ -10,6 +9,9 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 let allPoints = [];
 const markers = L.layerGroup().addTo(map);
 
+// Define a color palette
+const colors = ['#8dd3c7', '#ffffb3', '#bebada', '#fb8072', '#80b1d3', '#fdb462', '#b3de69', '#fccde5', '#d9d9d9', '#bc80bd', '#ccebc5', '#ffed6f'];
+
 // Load and process KML data
 fetch('Mapaterrtorios.kml')
     .then(response => response.text())
@@ -18,13 +20,36 @@ fetch('Mapaterrtorios.kml')
         const kml = parser.parseFromString(kmltext, 'text/xml');
         const geojson = toGeoJSON.kml(kml);
 
+        // Build neighborhood graph
+        const features = geojson.features;
+        const neighbors = {};
+        features.forEach((feature, i) => {
+            neighbors[i] = [];
+            for (let j = 0; j < features.length; j++) {
+                if (i === j) continue;
+                const otherFeature = features[j];
+                if (turf.booleanIntersects(feature, otherFeature)) {
+                    neighbors[i].push(j);
+                }
+            }
+        });
+
+        // Greedy coloring
+        const featureColors = {};
+        features.forEach((feature, i) => {
+            const neighborColors = neighbors[i].map(neighborIndex => featureColors[neighborIndex]).filter(color => color);
+            const availableColor = colors.find(color => !neighborColors.includes(color));
+            featureColors[i] = availableColor || colors[0];
+        });
+
         const territoryLayer = L.geoJSON(geojson, {
             style: function(feature) {
+                const featureIndex = features.indexOf(feature);
                 return {
-                    color: 'blue',
+                    color: featureColors[featureIndex],
                     weight: 2,
                     opacity: 0.7,
-                    fillOpacity: 0.1
+                    fillOpacity: 0.5
                 };
             },
             onEachFeature: function(feature, layer) {
@@ -52,7 +77,7 @@ fetch('Mapaterrtorios.kml')
 Papa.parse('https://docs.google.com/spreadsheets/d/e/2PACX-1vQzsGUUp_L0sCTUtFUR6dlVe3t6R2LzlWlA8BegK9__LqLFR8_UkG2N0y-H68FeQycZ3ykWXpItPasA/pub?output=csv', {
     download: true,
     header: true,
-    dynamicTyping: false, // Disable dynamic typing to handle parsing manually
+    dynamicTyping: false,
     complete: function(results) {
         allPoints = results.data.map(point => {
             return {
@@ -63,7 +88,7 @@ Papa.parse('https://docs.google.com/spreadsheets/d/e/2PACX-1vQzsGUUp_L0sCTUtFUR6
                 Numb: point.Nº
             };
         });
-        updateMapAndTable(allPoints);
+        // No se llama a updateMapAndTable(allPoints) aquí.
     }
 });
 
@@ -115,8 +140,12 @@ const filter = document.getElementById('territorio-filter');
 filter.addEventListener('change', (event) => {
     const selectedTerritory = event.target.value;
     if (selectedTerritory === 'all') {
-        updateMapAndTable(allPoints);
+        // Si se selecciona "todos", borra los marcadores y la tabla.
+        markers.clearLayers();
+        const tableBody = document.querySelector('#data-table tbody');
+        tableBody.innerHTML = '';
     } else {
+        // Si se selecciona un territorio específico, filtra y muestra los puntos.
         const filteredPoints = allPoints.filter(point => {
             return point.Name === parseInt(selectedTerritory, 10);
         });
