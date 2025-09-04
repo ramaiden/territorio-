@@ -23,7 +23,7 @@ html, body {
 }
 
 #map {
-    height: 100vh;
+    height: 60vh;
     width: 100%;
 }
 
@@ -127,9 +127,44 @@ tr:hover {
 }
 
 /* Responsive styles */
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
     #map {
         height: 75vh;
+    }
+
+    .filter-container {
+        top: 5px;
+        right: 5px;
+        padding: 5px;
+    }
+
+    #territorio-filter {
+        font-size: 14px;
+    }
+
+    th, td {
+        padding: 8px;
+        font-size: 12px;
+    }
+}
+.filter-container {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Espacio entre el botón y el filtro
+}*/
+
+#geolocate-button {
+    padding: 8px 12px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: #f0f0f0;
+    cursor: pointer;
+}
+
+
+@media (max-width: 768px) {
+    #map {
+        height: 60vh;
     }
 
     .filter-container {

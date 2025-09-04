@@ -152,3 +152,34 @@ filter.addEventListener('change', (event) => {
         updateMapAndTable(filteredPoints);
     }
 });
+
+// ... tu código existente
+const geolocateButton = document.getElementById('geolocate-button');
+geolocateButton.addEventListener('click', () => {
+    // Verifica si el navegador soporta geolocalización
+    if (navigator.geolocation) {
+        // Obtiene la posición actual del usuario
+        navigator.geolocation.getCurrentPosition(
+            (position) => {
+                const lat = position.coords.latitude;
+                const lon = position.coords.longitude;
+                const userLocation = [lat, lon];
+                
+                // Centra el mapa en la ubicación del usuario y lo acerca
+                map.setView(userLocation, 16); 
+                
+                // Opcional: añade un marcador en la ubicación del usuario
+                L.marker(userLocation).addTo(map)
+                    .bindPopup("¡Estás aquí!").openPopup();
+            },
+            (error) => {
+                // Maneja los errores si el usuario no permite la ubicación
+                console.error("Error al obtener la ubicación:", error);
+                alert("No se pudo obtener tu ubicación. Por favor, asegúrate de que la geolocalización esté habilitada en tu navegador.");
+            }
+        );
+    } else {
+        // Navegadores que no soportan la geolocalización
+        alert("Tu navegador no soporta la geolocalización.");
+    }
+});
